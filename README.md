@@ -31,14 +31,14 @@ For example: C:\Program Files (x86)\mRemoteNG-1.77.3\Icons
 | <img src="SharePoint.ico" alt="sharepoint_icon" style="width:25px;height:auto;"> | SharePoint |
 | <img src="Switch.ico" alt="switch_icon" style="width:25px;height:auto;"> | Switch |
 | <img src="Tel.ico" alt="tel_icon" style="width:25px;height:auto;"> | Tel |
+| <img src="Telnet.ico" alt="telnet_icon" style="width:25px;height:auto;"> | Telnet |
+| <img src="Terminal Server.ico" alt="terminal_server_icon" style="width:25px;height:auto;"> | Terminal Server |
 
 </td>
 <td style="border: none;">
 
 | Icon | Program |
 | -------------------- | ---------------------------- |
-| <img src="Telnet.ico" alt="telnet_icon" style="width:25px;height:auto;"> | Telnet |
-| <img src="Terminal Server.ico" alt="terminal_server_icon" style="width:25px;height:auto;"> | Terminal Server |
 | <img src="Test Server.ico" alt="test_server_icon" style="width:25px;height:auto;"> | Test Server |
 | <img src="Virtual Machine.ico" alt="virtual_machine_icon" style="width:25px;height:auto;"> | Virtual Machine |
 | <img src="Web Server.ico" alt="web_server_icon" style="width:25px;height:auto;"> | Web Server |
@@ -61,15 +61,16 @@ For example: C:\Program Files (x86)\mRemoteNG-1.77.3\Icons
 | <img src="generic_client_16.ico" alt="generic_client_16_icon" style="width:25px;height:auto;"> | Generic Client |
 | <img src="git.ico" alt="git_icon" style="width:25px;height:auto;"> | Git |
 | <img src="homeassistant-icon.ico" alt="homeassistant_icon" style="width:25px;height:auto;"> | Home Assistant |
+| <img src="hyperv_vm.ico" alt="hyperv_vm_icon" style="width:25px;height:auto;"> | Hyper-V VM |
+| <img src="hyperv_vms.ico" alt="hyperv_vms_icon" style="width:25px;height:auto;"> | Hyper-V VMS |
+| <img src="influxdb.ico" alt="influxdb_icon" style="width:25px;height:auto;"> | InfluxDB |
 
 </td>
 <td style="border: none;">
 
 | Icon | Program |
 | -------------------- | ---------------------------- |
-| <img src="hyperv_vm.ico" alt="hyperv_vm_icon" style="width:25px;height:auto;"> | Hyper-V VM |
-| <img src="hyperv_vms.ico" alt="hyperv_vms_icon" style="width:25px;height:auto;"> | Hyper-V VMS |
-| <img src="influxdb.ico" alt="influxdb_icon" style="width:25px;height:auto;"> | InfluxDB |
+
 | <img src="linux_client.ico" alt="linux_client_icon" style="width:25px;height:auto;"> | Linux Client |
 | <img src="mRemote.ico" alt="mRemote_icon" style="width:25px;height:auto;"> | mRemote |
 | <img src="mRemoteNG.ico" alt="mRemoteNG_icon" style="width:25px;height:auto;"> | mRemoteNG |
