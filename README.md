@@ -70,7 +70,6 @@ For example: C:\Program Files (x86)\mRemoteNG-1.77.3\Icons
 
 | Icon | Program |
 | -------------------- | ---------------------------- |
-
 | <img src="linux_client.ico" alt="linux_client_icon" style="width:25px;height:auto;"> | Linux Client |
 | <img src="mRemote.ico" alt="mRemote_icon" style="width:25px;height:auto;"> | mRemote |
 | <img src="mRemoteNG.ico" alt="mRemoteNG_icon" style="width:25px;height:auto;"> | mRemoteNG |
