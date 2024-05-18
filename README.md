@@ -2,9 +2,9 @@
 On windows, clone these in the mremoteng installation folder - icons.<br>
 For example: C:\Program Files (x86)\mRemoteNG-1.77.3\Icons
 
-<table style="border-collapse: collapse; width: 100%; border: none; vertical-align: top;">
-  <tr style="vertical-align: top;">
-    <td style="border: none; vertical-align: top;">
+<table style="border-collapse: collapse; width: 100%; border: none!important; vertical-align: top;">
+  <tr style="vertical-align: top; border: none!important;">
+    <td style="border: none!important; vertical-align: top;">
 
 | Icon | Program |
 | -------------------- | ---------------------------- |
