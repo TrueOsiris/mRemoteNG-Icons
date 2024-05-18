@@ -33,6 +33,7 @@ For example: C:\Program Files (x86)\mRemoteNG-1.77.3\Icons
 | <img src="Tel.ico" alt="tel_icon" style="width:25px;height:auto;"> | Tel |
 | <img src="Telnet.ico" alt="telnet_icon" style="width:25px;height:auto;"> | Telnet |
 | <img src="Terminal Server.ico" alt="terminal_server_icon" style="width:25px;height:auto;"> | Terminal Server |
+|  |  |
 
 </td>
 <td style="border: none; vertical-align: top;">
@@ -64,6 +65,7 @@ For example: C:\Program Files (x86)\mRemoteNG-1.77.3\Icons
 | <img src="hyperv_vm.ico" alt="hyperv_vm_icon" style="width:25px;height:auto;"> | Hyper-V VM |
 | <img src="hyperv_vms.ico" alt="hyperv_vms_icon" style="width:25px;height:auto;"> | Hyper-V VMS |
 | <img src="influxdb.ico" alt="influxdb_icon" style="width:25px;height:auto;"> | InfluxDB |
+|  |  |
 
 </td>
 <td style="border: none; vertical-align: top;">
