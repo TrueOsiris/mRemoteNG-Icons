@@ -2,9 +2,9 @@
 On windows, clone these in the mremoteng installation folder - icons.<br>
 For example: C:\Program Files (x86)\mRemoteNG-1.77.3\Icons
 
-<table>
-  <tr>
-    <td>
+<table style="border-collapse: collapse; width: 100%;">
+  <tr style="vertical-align: top;">
+    <td style="border: none;">
 
 | Icon | Program |
 | -------------------- | ---------------------------- |
@@ -24,12 +24,6 @@ For example: C:\Program Files (x86)\mRemoteNG-1.77.3\Icons
 | <img src="Linux.ico" alt="linux_icon" style="width:25px;height:auto;"> | Linux |
 | <img src="Log.ico" alt="log_icon" style="width:25px;height:auto;"> | Log |
 | <img src="Mail Server.ico" alt="mail_server_icon" style="width:25px;height:auto;"> | Mail Server |
-
-</td>
-<td>
-
-| Icon | Program |
-| -------------------- | ---------------------------- |
 | <img src="PuTTY.ico" alt="putty_icon" style="width:25px;height:auto;"> | PuTTY |
 | <img src="Remote Desktop.ico" alt="remote_desktop_icon" style="width:25px;height:auto;"> | Remote Desktop |
 | <img src="Router.ico" alt="router_icon" style="width:25px;height:auto;"> | Router |
@@ -37,6 +31,12 @@ For example: C:\Program Files (x86)\mRemoteNG-1.77.3\Icons
 | <img src="SharePoint.ico" alt="sharepoint_icon" style="width:25px;height:auto;"> | SharePoint |
 | <img src="Switch.ico" alt="switch_icon" style="width:25px;height:auto;"> | Switch |
 | <img src="Tel.ico" alt="tel_icon" style="width:25px;height:auto;"> | Tel |
+
+</td>
+<td style="border: none;">
+
+| Icon | Program |
+| -------------------- | ---------------------------- |
 | <img src="Telnet.ico" alt="telnet_icon" style="width:25px;height:auto;"> | Telnet |
 | <img src="Terminal Server.ico" alt="terminal_server_icon" style="width:25px;height:auto;"> | Terminal Server |
 | <img src="Test Server.ico" alt="test_server_icon" style="width:25px;height:auto;"> | Test Server |
@@ -47,12 +47,6 @@ For example: C:\Program Files (x86)\mRemoteNG-1.77.3\Icons
 | <img src="Workstation.ico" alt="workstation_icon" style="width:25px;height:auto;"> | Workstation |
 | <img src="alpine.ico" alt="alpine_icon" style="width:25px;height:auto;"> | Alpine |
 | <img src="bitwarden.ico" alt="bitwarden_icon" style="width:25px;height:auto;"> | Bitwarden |
-
-</td>
-<td>
-
-| Icon | Program |
-| -------------------- | ---------------------------- |
 | <img src="bsd_client.ico" alt="bsd_client_icon" style="width:25px;height:auto;"> | BSD Client |
 | <img src="centos.ico" alt="centos_icon" style="width:25px;height:auto;"> | CentOS |
 | <img src="cloudlibraries_16.ico" alt="cloudlibraries_16_icon" style="width:25px;height:auto;"> | Cloud Libraries |
@@ -67,17 +61,15 @@ For example: C:\Program Files (x86)\mRemoteNG-1.77.3\Icons
 | <img src="generic_client_16.ico" alt="generic_client_16_icon" style="width:25px;height:auto;"> | Generic Client |
 | <img src="git.ico" alt="git_icon" style="width:25px;height:auto;"> | Git |
 | <img src="homeassistant-icon.ico" alt="homeassistant_icon" style="width:25px;height:auto;"> | Home Assistant |
-| <img src="hyperv_vm.ico" alt="hyperv_vm_icon" style="width:25px;height:auto;"> | Hyper-V VM |
-| <img src="hyperv_vms.ico" alt="hyperv_vms_icon" style="width:25px;height:auto;"> | Hyper-V VMS |
-| <img src="influxdb.ico" alt="influxdb_icon" style="width:25px;height:auto;"> | InfluxDB |
 
 </td>
-  </tr>
-  <tr>
-    <td>
+<td style="border: none;">
 
 | Icon | Program |
 | -------------------- | ---------------------------- |
+| <img src="hyperv_vm.ico" alt="hyperv_vm_icon" style="width:25px;height:auto;"> | Hyper-V VM |
+| <img src="hyperv_vms.ico" alt="hyperv_vms_icon" style="width:25px;height:auto;"> | Hyper-V VMS |
+| <img src="influxdb.ico" alt="influxdb_icon" style="width:25px;height:auto;"> | InfluxDB |
 | <img src="linux_client.ico" alt="linux_client_icon" style="width:25px;height:auto;"> | Linux Client |
 | <img src="mRemote.ico" alt="mRemote_icon" style="width:25px;height:auto;"> | mRemote |
 | <img src="mRemoteNG.ico" alt="mRemoteNG_icon" style="width:25px;height:auto;"> | mRemoteNG |
@@ -95,12 +87,6 @@ For example: C:\Program Files (x86)\mRemoteNG-1.77.3\Icons
 | <img src="rac_client.ico" alt="rac_client_icon" style="width:25px;height:auto;"> | RAC Client |
 | <img src="sauron.ico" alt="sauron_icon" style="width:25px;height:auto;"> | Sauron |
 | <img src="sm_mountpath.ico" alt="sm_mountpath_icon" style="width:25px;height:auto;"> | SM Mountpath |
-
-</td>
-<td>
-
-| Icon | Program |
-| -------------------- | ---------------------------- |
 | <img src="special_client.ico" alt="special_client_icon" style="width:25px;height:auto;"> | Special Client |
 | <img src="storage_resources_16.ico" alt="storage_resources_16_icon" style="width:25px;height:auto;"> | Storage Resources |
 | <img src="teamspeak.ico" alt="teamspeak_icon" style="width:25px;height:auto;"> | TeamSpeak |
