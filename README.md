@@ -4,7 +4,7 @@ For example: C:\Program Files (x86)\mRemoteNG-1.77.3\Icons
 
 <table style="border-collapse: collapse; width: 100%; border: none;">
   <tr style="vertical-align: top;">
-    <td style="border: none;">
+    <td style="border: none;vertical-align: top;">
 
 | Icon | Program |
 | -------------------- | ---------------------------- |
